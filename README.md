@@ -5,10 +5,24 @@ MCTT - Minecraft Texturepack Template
   
 To get started -- checkout http://z3bbster.github.com/MCTT/wiki 
   
-Usage 
+Folder Structure 
 ---------- 
-  
-Coming soon. 
+
+```
++achievement
++anim
++armor
++art
++environment
++font
++gui
++item
++misc
++mob
++terrian
++title
+
+``` 
   
 Todo List 
 ---------- 
@@ -30,6 +44,13 @@ For transparency and insight into our release cycle.
 Releases will be numbered with the following format:
 
 `<major>.<minor>.<patch>` 
+
+IRC
+---
+
+Server: irc.freenode.net
+
+Channel: #channelname
   
 Change log 
 ---------- 
